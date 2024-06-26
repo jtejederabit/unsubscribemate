@@ -7,6 +7,10 @@
 
 UnsubscribeMate is a Vite + React + TailwindCSS application designed to help users easily manage and unsubscribe from unwanted email subscriptions directly from their Gmail inbox. The application utilizes the Gmail API to list emails containing unsubscribe links and provides a user-friendly interface to bulk unsubscribe and optionally delete emails after unsubscribing.
 
+
+https://github.com/jtejederabit/unsubscribemate/assets/130762129/c1fcf933-14d1-4efb-bf43-40d694a57d42
+
+
 ## Features
 
 - **Google Authentication**: Sign in with your Google account to access your Gmail inbox.
