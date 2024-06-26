@@ -94,4 +94,4 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ---
 
-Developed with ❤️ by JTEJEDERABIT [JTBIT]
+Developed with ❤️ by [JTEJEDERABIT](https://github.com/jtejederabit)
